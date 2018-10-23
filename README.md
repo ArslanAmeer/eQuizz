@@ -1,4 +1,4 @@
-# eQuizz❕ - An Online Smart Quiz System
+# eQuizz❕ - An Online Smart Quiz System ( Repo Moved To [New Link!](https://github.com/ArslanAmeer/eQuiizz) ) 
 eQuizz❕ Online System made with Asp .Net MVC Technology using C#, HTML5, CSS3, JavaScript, Bootstrap, JQuery, Ajax, SQL, and EntityFramework.
 
 # ( Work In Progress 🏗 ) ( Site Under Construction 🚧 )
